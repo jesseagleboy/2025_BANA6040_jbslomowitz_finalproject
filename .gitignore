@@ -1,2 +1,4 @@
 /.DS_Store
 split.py
+# MyST build outputs
+_build
