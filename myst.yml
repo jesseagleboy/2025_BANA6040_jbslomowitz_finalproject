@@ -5,6 +5,7 @@ project:
   id: eb939dc4-c0c6-42c5-bcec-7419c5886c0b
   title: "BANA 6040 Final Project - Jesse Slomowitz"
   github: https://jesseagleboy.github.io/2025_BANA6040_jbslomowitz_finalproject/
+  jupyter: true
   toc:
     - file: intro.ipynb
     - file: data-loading.ipynb
@@ -19,3 +20,5 @@ site:
   template: book-theme
   options:
     hide_myst_branding: true
+
+  
