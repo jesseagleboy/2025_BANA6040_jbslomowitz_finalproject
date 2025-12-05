@@ -19,6 +19,3 @@ site:
   template: book-theme
   options:
     hide_myst_branding: true
-
-exports:
-  - format: html
